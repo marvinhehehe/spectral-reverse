@@ -1,0 +1,9 @@
+**/__pycache__
+.DS_Store
+.vscode
+logs
+log
+outputs
+results
+output*
+wandb
